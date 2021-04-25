@@ -13,5 +13,5 @@ are good to go.
 
 <h3>LICENSE</h3>
 This project is licensed under the MIT Licence.
-<h2>N.B:</h2> We don't support watching pirated movies. Buy the movie
-and support creators.
+<h2>N.B:We don't support watching pirated movies. Buy the movie
+and support creators. </h2>
