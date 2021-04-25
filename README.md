@@ -6,10 +6,10 @@ This is the middle man between you and mlwbd.mobi .
 Now an instance of this app is running on heroku.com .
 And you can use that and share your links...
 
-#What you have to do
+<h3>What you have to do</h3>
 The only thing you need to do is just remove the ".mobi" 
 part from the original site and put ".herokuapp.com" and you
 are good to go. 
 
-#LICENSE
+<h3>LICENSE</h3>
 This project is licensed under the MIT Licence.
